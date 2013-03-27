@@ -1,0 +1,7 @@
+<Items>
+	<item name="RedItem"	color="0xff0000"	str=3></item>
+	<item name="GreenItem"	color="0x00ff00"	dex=3></item>
+	<item name="BlueItem"	color="0x0000ff"	int=3></item>
+	<item name="BlackItem"	color="0x000000"	hp=10></item>
+	<item name="WhiteItem"	color="0xffffff"	mp=10></item>
+</Items>
